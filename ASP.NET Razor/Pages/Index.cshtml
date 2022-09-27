@@ -1,0 +1,65 @@
+﻿@page
+
+@model AspNetRazor.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Work Tasks";
+}
+
+<h1>Work Tasks</h1>
+<p>
+    <a asp-page="Create">Create New work task</a>
+</p>
+</hr>
+<div class="text-center">
+    <form name="workTasks" method="post">        
+        <table class="table">
+            <tr>
+                <th>Task Name</th>
+                <th>Priority</th>            
+                <th>Status Name</th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model.WorkTasks)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Priority)</td>            
+                    <td>@Html.DisplayFor(modelItem => item.StatusName)</td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </form>
+</div>
+
+<script> 
+    function checkWorkTask()
+    {
+        var statusName = document.workTasks.newWorkTask.statuses;
+        
+        var taskName = document.workTasks.newWorkTask.Name;
+
+        var yourJavaScriptArray = @Html.Raw(Json.Serialize(Model.WorkTaskNames));
+
+        for (let i = 0; i < taskName.length; i += 1)
+        {
+           if (taskName.trim() === yourJavaScriptArray.trim())
+           {
+               alert("Current name is exist. Set the other name");
+               passid.focus();
+           }
+        }
+
+        if(statusName)
+
+         return true;
+    }
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

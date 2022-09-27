@@ -1,0 +1,26 @@
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\appsettings.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ASP.NET Razor.staticwebassets.runtime.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ASP.NET Razor.exe
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ASP.NET Razor.deps.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ASP.NET Razor.runtimeconfig.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ASP.NET Razor.dll
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ref\ASP.NET Razor.dll
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\bin\Debug\net6.0\ASP.NET Razor.pdb
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.AssemblyInfo.cs
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.RazorAssemblyInfo.cache
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.RazorAssemblyInfo.cs
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Razor.styles.css
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Razor.bundle.scp.css
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.dll
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ref\ASP.NET Razor.dll
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.pdb
+C:\Users\Work\source\repos\ASP.NET Razor\ASP.NET Razor\obj\Debug\net6.0\ASP.NET Razor.genruntimeconfig.cache
